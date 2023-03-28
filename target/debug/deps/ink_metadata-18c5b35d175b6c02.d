@@ -1,0 +1,9 @@
+/Users/brijeshkuvadiya/Downloads/psp34-2/target/debug/deps/ink_metadata-18c5b35d175b6c02.rmeta: /Users/brijeshkuvadiya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/lib.rs /Users/brijeshkuvadiya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/mod.rs /Users/brijeshkuvadiya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/validate.rs /Users/brijeshkuvadiya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/specs.rs /Users/brijeshkuvadiya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/utils.rs
+
+/Users/brijeshkuvadiya/Downloads/psp34-2/target/debug/deps/ink_metadata-18c5b35d175b6c02.d: /Users/brijeshkuvadiya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/lib.rs /Users/brijeshkuvadiya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/mod.rs /Users/brijeshkuvadiya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/validate.rs /Users/brijeshkuvadiya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/specs.rs /Users/brijeshkuvadiya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/utils.rs
+
+/Users/brijeshkuvadiya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/lib.rs:
+/Users/brijeshkuvadiya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/mod.rs:
+/Users/brijeshkuvadiya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/validate.rs:
+/Users/brijeshkuvadiya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/specs.rs:
+/Users/brijeshkuvadiya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/utils.rs:

@@ -1,0 +1,1 @@
+/Users/brijeshkuvadiya/Downloads/psp34-2/target/ink/release/metadata-gen: /Users/brijeshkuvadiya/Downloads/psp34-2/lib.rs /private/var/folders/d6/3b5bqg811175n0p7fyxb91kc0000gn/T/cargo-contract_muDOnz/.ink/metadata_gen/main.rs
